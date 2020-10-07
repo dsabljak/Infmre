@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5e33f1e-02b5-42c6-aa80-7717eaf6246c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prim_dijkstra.py" beforeDir="false" afterPath="$PROJECT_DIR$/prim_dijkstra.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +102,7 @@
       <workItem from="1601565538521" duration="5647000" />
       <workItem from="1601911878067" duration="1021000" />
       <workItem from="1601912919164" duration="3364000" />
-      <workItem from="1602089864703" duration="920000" />
+      <workItem from="1602089864703" duration="1263000" />
     </task>
     <servers />
   </component>
