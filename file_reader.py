@@ -1,4 +1,6 @@
-
+"""
+    Class for reading data from .txt file
+"""
 class FileReader:
 
     def __init__(self, path):
@@ -9,6 +11,11 @@ class FileReader:
 
         self.parse()
 
+    """
+        Data is written in .txt file like:
+        begin_node, end_node, cost, direction;
+        This method parses all rows of file and saves data
+    """
     def parse(self):
         data = self.file.readlines()
 
@@ -21,9 +28,14 @@ class FileReader:
             self.nodes.add(begin_node)
             self.nodes.add(end_node)
             self.edges.append(edge)
+
+            # If cost is 0, ignore it
+            # Maybe not the best way?
             if cost != 0:
                 self.edge_cost[edge] = cost
 
+            # If direction is not directed, then create simetric edge
+            # For example AB -> BA
             if direct == 'n':
                 self.edge_cost[edge[::-1]] = cost
 
