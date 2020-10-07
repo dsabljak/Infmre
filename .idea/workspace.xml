@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5e33f1e-02b5-42c6-aa80-7717eaf6246c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kruskal.py" beforeDir="false" afterPath="$PROJECT_DIR$/kruskal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
       <recent name="C:\Users\dsabl\PycharmProjects\INFMRE" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.prim_dijkstra">
+  <component name="RunManager" selected="Python.kruskal">
     <configuration name="kruskal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="INFMRE" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,8 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.prim_dijkstra" />
         <item itemvalue="Python.kruskal" />
+        <item itemvalue="Python.prim_dijkstra" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +102,7 @@
       <workItem from="1601565538521" duration="5647000" />
       <workItem from="1601911878067" duration="1021000" />
       <workItem from="1601912919164" duration="3364000" />
-      <workItem from="1602089864703" duration="1263000" />
+      <workItem from="1602089864703" duration="5886000" />
     </task>
     <servers />
   </component>
@@ -118,22 +118,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601912890030" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1602090990370">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1602096851611">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602090990370" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1602090990370">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602096851611" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1602096851611">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602090990370" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1602090990370">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602096851610" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1602096851610">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602090990370" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1602090990370">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602096851610" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1602096851611">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602090990370" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602096851611" />
     <state x="277" y="55" key="SettingsEditor" timestamp="1601570391298">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -152,7 +152,7 @@
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601915633048" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/INFMRE$prim_dijkstra.coverage" NAME="prim_dijkstra Coverage Results" MODIFIED="1602090491531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/INFMRE$kruskal.coverage" NAME="kruskal Coverage Results" MODIFIED="1602090433481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/INFMRE$prim_dijkstra.coverage" NAME="prim_dijkstra Coverage Results" MODIFIED="1602093570609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/INFMRE$kruskal.coverage" NAME="kruskal Coverage Results" MODIFIED="1602096851602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
